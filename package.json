@@ -1,7 +1,7 @@
 {
-  "name": "clase-32",
+  "name": "clase_32",
   "version": "1.0.0",
-  "description": "Clase 32 de backend coderhouse",
+  "description": "Clase_32 de backend coderhouse",
   "author": "Javier Di Salvo",
   "main": "index.js",
   "type": "module",
